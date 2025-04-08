@@ -36,3 +36,13 @@
 - OPIC IH (2024)
 - SQLD (2023)
 - ADsP (2023) 
+
+
+<br/>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zi0-hand&show_icons=true&hide_border=false&title_color=3d6aff&text_color=202b3d&bg_color=ffffff&count_private=true&include_all_commits=true&border_color=e4e2e2"/>
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zi0-hand&text_color=000000&bg_color=ffffff&title_color=202b3d&langs_count=15&layout=compact&hide_border=false&border_color=e4e2e2" />
+</p>
+
+<br/>
