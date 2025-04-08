@@ -1,24 +1,23 @@
 # 👋 Jiyeong Son (zi0-hand)
 
-<br>
 
 ## 🎓 Education
 - (19.03 ~ 25.02) 숭실대학교 산업정보시스템공학과 
 	- 전공 평점: 4.32/4.5
 	- 전체 평점: 4.16/4.5
 - (25.02 ~ 25.07) SKALA 1기 | SK C&C AI 서비스 개발자 과정 
-<br>
+
 
 ## 🏃‍♂️ Experiences
 - (24.06 ~ 24.08) [올이즈웰](https://alliswell.co.kr/) (마케팅 인턴) | 옥외광고 마케팅 대행사 
 - (22.06 ~ 24.02) [지속가능그린디자인 연구실](https://www.sgdlab.net/) (학부 연구생) | 숭실대학교 산업정보시스템공학과 연구실 
 - (23.08 ~ 24.02) [BDA 빅데이터 분석 학회](https://bdaprogram.oopy.io/) (데이터팀 팀장) | 학회 운영진 
 - (20.03 ~ 20.08) SoME 경영 컨설팅 학회 (학회원) | 연합 동아리 
-<br>
+
 
 ## 📑 Paper
 - (23.06 ~ 25.03) [Review lifecycle analytics and importance–obsolescence analysis](https://www.sciencedirect.com/science/article/pii/S0969698925000840) | 지속가능그린디자인 연구실
-<br>
+
 
 ## 🏆 Awards & Achievements
 |**날짜**|**대회명**|**수상**|**주최**|**주제**|
@@ -30,7 +29,7 @@
 |23.08|숭실공학상|은상|숭실대학교 공과 대학|[RFM을 통한 고객 세분화 및 이탈 고객 예측](https://github.com/zi0-hand/capstone-design-project)
 |23.02|지역 치안 안전 데이터분석 경진대회|우수상|경찰대학교|[스마트 횡단보도 최적 입지 지표 제안 및 선정](https://github.com/zi0-hand/policing-big-data-competition)
 |20.12|숭실공학상|동상|숭실대학교 공과 대학|스마트워치 UI, UX 분석 및 재설계
-<br>
+
 
 
 ## 🛠️ Certification 
