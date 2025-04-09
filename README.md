@@ -16,7 +16,7 @@
 
 
 ## 📑 Paper
-- (23.06 ~ 25.03) [Review lifecycle analytics and importance–obsolescence analysis](https://www.sciencedirect.com/science/article/pii/S0969698925000840) | 지속가능그린디자인 연구실
+- (23.06 ~ 25.03) *[Review lifecycle analytics and importance–obsolescence analysis](https://www.sciencedirect.com/science/article/pii/S0969698925000840)* | 지속가능그린디자인 연구실
 
 
 ## 🏆 Awards & Achievements
