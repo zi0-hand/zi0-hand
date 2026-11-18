@@ -3,8 +3,7 @@
 
 ## 🎓 Education
 - (19.03 ~ 25.02) 숭실대학교 산업정보시스템공학과 
-	- 전공 평점: 4.32/4.5
-	- 전체 평점: 4.16/4.5
+
 
 ## 🏃‍♂️ Experiences
 - (25.02 ~ 25.07) [SKALA 1기](https://skala.co.kr/) (SK AX AI Leaders Academy) | AI 서비스 개발자 교육 과정 
